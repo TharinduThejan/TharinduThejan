@@ -4,14 +4,14 @@
 </p>
 
 ---
-<p align="center">
-  <img src="profile.jpg" alt="Tharindu Thejan" width="200" style="border-radius: 50px;" />
-</p>
+
 
 
 ### 💫 About Me  
 
-
+<p>
+  <img src="profile.jpg" alt="Tharindu Thejan" width="200" style="border-radius: 50px;" />
+</p>
 
 🎓 3rd-year Software Engineering Undergraduate at University of Kelaniya  
 💻 Full Stack Developer | 📱 Mobile App Developer  
