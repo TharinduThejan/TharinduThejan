@@ -6,6 +6,11 @@
 ---
 
 ### 💫 About Me  
+
+<p align="center">
+  <img src="profile.jpg" alt="Tharindu Thejan" width="200" style="border-radius: 50%;" />
+</p>
+
 🎓 3rd-year Software Engineering Undergraduate at University of Kelaniya  
 💻 Full Stack Developer | 📱 Mobile App Developer  
 🚀 Passionate about solving real-world problems using modern tech  
