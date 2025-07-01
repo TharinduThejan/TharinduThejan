@@ -1,5 +1,5 @@
 <!-- Profile Header Banner -->
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Tharindu%20Thejan%20👋&fontSize=40&fontAlignY=35&desc=Full-Stack%20%7C%20Cloud%20Enthusiast%20%7C%20React%20%7C%20Spring%20Boot&descSize=18&descAlignY=55" alt="Header" />
 </p>
 
