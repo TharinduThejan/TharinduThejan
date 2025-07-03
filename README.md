@@ -65,8 +65,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharinduthejan&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduthejan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tharinduthejan&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
