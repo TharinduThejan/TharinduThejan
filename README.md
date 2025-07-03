@@ -1,17 +1,22 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Tharindu%20Thejan%20👋&fontSize=40&fontAlignY=35&desc=Full-Stack%20%7C%20Cloud%20Enthusiast%20%7C%20React%20%7C%20Spring%20Boot&descSize=18&descAlignY=55" alt="Header" />
+ <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Tharindu%20Thejan%20👋&fontSize=40&fontAlignY=35&desc=Full-Stack%20%7C%20MERN%20stack%20%7C%20React-Spring%20Boot%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=55"
+    alt="Header"
+    width="100%"
+  />
 </p>
+<p align="center">
+  <img src="profile.jpg" alt="Tharindu Thejan" width="200" style="border-radius: 50px;" />
+</p>
+
 
 ---
 
 
-
 ### 💫 About Me  
 
-<p>
-  <img src="profile.jpg" alt="Tharindu Thejan" width="200" style="border-radius: 50px;" />
-</p>
+
 
 🎓 3rd-year Software Engineering Undergraduate at University of Kelaniya  
 💻 Full Stack Developer | 📱 Mobile App Developer  
